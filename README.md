@@ -13,10 +13,27 @@ BGEO is very simple - almost no UI, fast, powerful, controlled by [shortcuts](#s
 ## How to use?
 
 ### Shortcuts
+
+#### Utilities:
 - `CTRL+ALT+SHIFT+H` - hide / show edges.
 - `CTRL+ALT+SHIFT+S` - save current settings to use with current window/game.
 - `CTRL+ALT+SHIFT+C` - show / hide shortcuts list.
+
+#### Colors
+- `CTRL+ALT+SHIFT+A` - set edges color to [auto mode](#colors).
 - `CTRL+ALT+SHIFT+1` - set edges color to [color1](#colors).
+- `CTRL+ALT+SHIFT+2` - set edges color to [color2](#colors).
+- `CTRL+ALT+SHIFT+3` - set edges color to [color3](#colors).
+- `CTRL+ALT+SHIFT+4` - set edges color to [color4](#colors).
+- `CTRL+ALT+SHIFT+5` - set edges color to [color5](#colors).
+- `CTRL+ALT+SHIFT+6` - set edges color to [color6](#colors).
+- `CTRL+ALT+SHIFT+7` - set edges color to [color7](#colors).
+- `CTRL+ALT+SHIFT+8` - set edges color to [color8](#colors).
+- `CTRL+ALT+SHIFT+9` - set edges color to [color9](#colors).
+
+#### Thickness
+- `CTRL+ALT+SHIFT+W` - set thickness up.
+- `CTRL+ALT+SHIFT+S` - set thickness down.
 
 ### Colors
 You can use 9 predefined colors of edges or auto contrast color. Predefined colors are saved in `config.cfg` file, so you can always override them if you need custom palette.
